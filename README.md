@@ -12,7 +12,6 @@
 - 🔐 Currently grinding Cybersecurity  
 - 🧠 Curious about systems, networks & real-world tech  
 - 🌍 Also into geopolitics & how the world operates  
-- ⚡ Belief: *Skills > Degrees*
 ---
 
 ## 🛠️ Tech Stack
