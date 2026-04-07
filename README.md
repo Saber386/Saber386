@@ -22,7 +22,6 @@ Languages: Python, C++
 Domains: Cybersecurity, Networking
 Tools: Linux, Git, Wireshark (learning), VS Code
 
-<!--
-**Saber386/Saber386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
