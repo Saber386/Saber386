@@ -10,8 +10,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE student @ GSFCU  
 - 🔐 Currently grinding Cybersecurity  
-- 🧠 Curious about systems, networks & real-world tech  
-- 🌍 Also into geopolitics & how the world operates  
+- 🧠 Curious about systems, networks & real-world tech   
 ---
 
 ## 🛠️ Tech Stack
