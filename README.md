@@ -10,7 +10,7 @@
 ##  About Me
 -  B.Tech CSE student @ GSFCU  
 -  Did nothing extraordinary 🫤
--  Learnign to contribute and be consistent 😺  
+-  Learning to contribute and be consistent 😺  
 ---
 
 ## 🛠️ Tech Stack
