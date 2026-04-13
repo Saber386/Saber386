@@ -2,7 +2,7 @@
 <h3 align="center">aka Abhinav 😊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=being+consistent+learning+to+contribute;Cybersecurity+%7C+Networking+%7C+Python;Learning+by+building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Being+consistent+learning+to+contribute;Cybersecurity+%7C+Networking+%7C+Python;Learning+by+building" />
 </p>
 
 ---
